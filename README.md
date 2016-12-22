@@ -7,3 +7,7 @@ Zaimplementowany program posiada następujące karty
 - Deszyfrowanie
 - Podpisywanie wiadomości sygnaturą
 - Weryfikacja podpisu
+
+Poniżej zrzut ekranu demonstrujący program
+
+![alt tag](http://images.tinypic.pl/i/00852/31myu0aov8xn.jpg)

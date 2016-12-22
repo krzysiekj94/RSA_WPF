@@ -10,4 +10,4 @@ Zaimplementowany program posiada następujące karty
 
 Poniżej zrzut ekranu demonstrujący program
 
-![GitHub Logo](/images/1.jpg)
+![Alt Text](/images/1.jpg)

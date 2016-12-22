@@ -11,3 +11,8 @@ Zaimplementowany program posiada następujące karty
 Poniżej zrzut ekranu demonstrujący program
 
 ![Alt Text](https://raw.githubusercontent.com/krzysiekj94/RSA_WPF/master/images/1.JPG)
+
+
+Przykładowa generacja kluczy: prywatnego (tajnego) i publicznego
+
+![Alt Text](https://raw.githubusercontent.com/krzysiekj94/RSA_WPF/master/images/2.JPG)

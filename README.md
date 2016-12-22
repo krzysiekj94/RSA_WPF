@@ -10,4 +10,4 @@ Zaimplementowany program posiada następujące karty
 
 Poniżej zrzut ekranu demonstrujący program
 
-![Alt Text](/images/1.jpg)
+![Alt Text](https://raw.githubusercontent.com/krzysiekj94/RSA_WPF/master/images/1.JPG)
